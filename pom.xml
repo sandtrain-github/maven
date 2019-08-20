@@ -72,4 +72,17 @@
       </plugins>
     </pluginManagement>
   </build>
+  
+  <distributionManagement>
+	  <repository>
+		  <id>004</id>
+		  <url>http://13.233.184.219:8081/nexus/content/repositories/004</url>
+	  </repository>
+
+	  <snapshotRepository>
+		  <id>003</id>
+		  <url>http://13.233.184.219:8081/nexus/content/repositories/003</url>
+	  </snapshotRepository>
+
+  </distributionManagement>
 </project>
