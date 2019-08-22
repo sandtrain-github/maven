@@ -78,9 +78,7 @@
     <id>myreleases</id>
     <url>http://13.127.170.67:8081/nexus/content/repositories/myreleases</url>
   </repository>
-</distributionManagement>
 
-<distributionManagement>
   <snapshotRepository>
     <id>mysnapshots</id>
     <url>http://13.127.170.67:8081/nexus/content/repositories/mysnapshots</url>
